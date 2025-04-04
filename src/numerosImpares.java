@@ -14,6 +14,7 @@ public class numerosImpares {
         System.out.print("Informe um valor: ");
         int numero = scanner.nextInt();
 
+        // Laço para verificar e mostrar os valores ímpares
         for (int i = 1; i <= numero; i+= 2) {
             System.out.println(i + " ");
         }
