@@ -11,7 +11,7 @@ public class menorNumero {
         int[] N = new int[10];
         Random random = new Random();
 
-        // Preenchendo o vetor com valores aleatórios entre 0 e 99
+        //  Vetor com valores aleatórios entre 0 e 99
         for (int i = 0; i < N.length; i++) {
             N[i] = random.nextInt(100); 
         }
