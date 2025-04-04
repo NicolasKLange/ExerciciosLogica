@@ -11,7 +11,7 @@ public class somaNumeros {
         Scanner scanner = new Scanner(System.in);
         // Variaveis
         boolean sair = true;
-        int num = 1, soma = 0;
+        int num = 1, soma = 0; 
 
         while (sair == true) {
             // Entrada de dados, números para somar
@@ -35,7 +35,7 @@ public class somaNumeros {
 
         }
         // Saida de dados com a soma dos números
-        System.out.println("Soma: " + soma);
+        System.out.print("Soma: " + soma);
         scanner.close();
     }
 }
