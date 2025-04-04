@@ -1,3 +1,10 @@
+/*
+    7 - Escreva um programa que leia as medidas da base e da altura de um quadrilátero. Em
+    seguida, usando o símbolo * (asterisco), desenhe na tela um quadrilátero com essas
+    medidas.
+
+ */
+
 import java.util.Scanner;
 
 public class baseAltura {
