@@ -1,3 +1,11 @@
+/*
+    5 - Escreva um programa para dar boas vindas às pessoas. O programa começa
+    perguntando a quantas pessoas serão dadas boas vindas. Em seguida, pergunta o nome e
+    o sexo de cada pessoa e exibe uma mensagem formatada (“Bem vindo sr.” ou “Bem vinda
+    sra.”, seguido do nome da pessoa). Ao final, o programa deve informar a quantidade de
+    homens e de mulheres cumprimentados.
+ */
+
 import java.util.Scanner;
 
 public class boasVindas {
