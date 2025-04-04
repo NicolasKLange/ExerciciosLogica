@@ -26,7 +26,7 @@ public class maiorNumero {
         }
 
         // Saida de dados
-        System.out.println("O maior número informado foi: " + maior);
+        System.out.println("O maior número é: " + maior);
         scanner.close();
     }
 }
