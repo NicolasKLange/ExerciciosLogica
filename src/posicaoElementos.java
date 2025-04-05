@@ -1,6 +1,6 @@
 /*
     Exercicio de Sala 2 - Escrever um algoritmo que le um vetor A de tamanho 15 preenchido com valores aleatórios.
-    E escreva a posição de cada elemento igual a 10 deste vetor
+    E escreva a posição de cada elemento igual a 10 deste vetor 
  */
 
  import java.util.Random;
@@ -26,7 +26,7 @@
          boolean encontrou = false;
          for (int i = 0; i < A.length; i++) {
              if (A[i] == 10) {
-                 System.out.println("Elemento 10 encontrado na posição: " + i);
+                 System.out.println("Elemento 10 encontrado na posição: " + (i + 1) );
                  encontrou = true;
              }
          }
