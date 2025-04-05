@@ -14,7 +14,7 @@
          System.out.println("Digite 10 números:");
          for (int i = 0; i < A.length; i++) {
              System.out.print("Número " + (i + 1) + ": ");
-             A[i] = scanner.nextInt();
+             A[i] = scanner.nextInt(); 
          }
  
          // Saida de dados, valores na ordem original
