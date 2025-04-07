@@ -30,7 +30,7 @@ public class ordemInversa {
         }
 
         // Saida de dados, todos os 20 valores (originais e inveros)
-        System.out.print("\nVetor completo (com inverso): ");
+        System.out.print("\nVetor A: ");
         for (int i = 0; i < 20; i++) {
             System.out.print(A[i] + " ");
         }
@@ -38,6 +38,8 @@ public class ordemInversa {
         System.out.println();
         scanner.close();
     }
+
+    ç 
 }
 
  
