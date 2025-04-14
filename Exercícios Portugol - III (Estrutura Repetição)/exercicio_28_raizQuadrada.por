@@ -8,7 +8,7 @@ programa
     funcao inicio()
     {
         // Entrada
-        escreva("Digite um número para calcular a raiz quadrada: ")
+        escreva("Informe o numero: ")
         leia(numero)
 
         // Inicializa valores
