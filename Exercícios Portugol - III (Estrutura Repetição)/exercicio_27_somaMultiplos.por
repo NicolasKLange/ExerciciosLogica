@@ -1,6 +1,7 @@
 programa
 {
-	// Variáveis
+	
+// Variáveis
      inteiro numeroLimite, soma, i
      
 	funcao inicio()
@@ -20,14 +21,3 @@ programa
 		escreva("A soma dos múltiplos de 3 ou 5 abaixo de ", numeroLimite, " é: ", soma)
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 289; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
