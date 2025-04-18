@@ -13,7 +13,7 @@ programa
 		}
 		
 		//Pedindo ao usuário o nome que deseja pesquisar no vetor
-		escreva("Qual noem você deseja pesquisar: ")
+		escreva("Qual nome você deseja pesquisar: ")
 		leia(nome)
 
 		// Inicializando posição com 0
