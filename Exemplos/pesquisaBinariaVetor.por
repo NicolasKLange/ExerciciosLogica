@@ -1,6 +1,7 @@
 programa
 {
-	inclua biblioteca Util --> u
+	inclua biblioteca Util
+ --> u
 	
 	// Variaveis e vetor
 	inteiro cont, contA, contB, aux, vet[10]
@@ -11,7 +12,8 @@ programa
 	logico encontrado = falso
 	
 	funcao inicio()
-	{	
+	{
+	
 		// Puxando o vetor ordenado com valores sorteados
 		preechaOrdenaVetor(vet)
 
@@ -66,14 +68,3 @@ programa
 		}
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 1172; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {vetor, 51, 35, 5};
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
