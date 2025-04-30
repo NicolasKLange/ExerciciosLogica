@@ -34,6 +34,6 @@ inclua biblioteca Matematica --> mat
         // Saída
         escreva("Na base decimal, esse é o número ", decimal)
     
-}
+    }
 
 }
